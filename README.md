@@ -1,6 +1,6 @@
 # Alex Mantello
 
-Full-stack developer and founder of [ZED-ZEN](https://zed-zen.com) — a software studio building production SaaS and AI-powered web apps for the hospitality, retail, and public sector.
+SaaS builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio shipping production apps for the hospitality, retail, and public sector. **Next.js + Supabase + AI workflows**, end-to-end from product design through deployment.
 
 📍 Mureș, Romania · EU timezone
 🌐 [alexandru.zed-zen.com](https://alexandru.zed-zen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alex-mantello-2b166414a/)
@@ -8,9 +8,9 @@ Full-stack developer and founder of [ZED-ZEN](https://zed-zen.com) — a softwar
 
 ---
 
-## What I build
+## How I work
 
-End-to-end SaaS platforms on **Next.js + Supabase + TypeScript** with **Stripe** payments and **OpenAI / Claude** integrations. 20+ shipped projects, with full ownership from product design through deployment.
+I build SaaS end-to-end on **Next.js + Supabase + TypeScript** with **Stripe** payments and **OpenAI / Claude** integrations. AI-assisted workflows are core to how I move fast — I architect, ship, and own the result. 20+ projects in production with real users.
 
 ## Stack
 
