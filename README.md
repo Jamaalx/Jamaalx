@@ -1,6 +1,6 @@
 # Alex Mantello
 
-SaaS builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio shipping production apps for the hospitality, retail, and public sector. **Next.js + Supabase + AI workflows**, end-to-end from product design through deployment.
+Product builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio shipping production apps for hospitality, retail, and public-sector clients. **Web apps, mobile apps, AI agents, integrations, internal tools.** Next.js · Supabase · Flutter · AI workflows. End-to-end from product design through deployment.
 
 📍 Mureș, Romania · EU timezone
 🌐 [alexandru.zed-zen.com](https://alexandru.zed-zen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alex-mantello-2b166414a/)
@@ -10,7 +10,7 @@ SaaS builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio
 
 ## How I work
 
-I build SaaS end-to-end on **Next.js + Supabase + TypeScript** with **Stripe** payments and **OpenAI / Claude** integrations. AI-assisted workflows are core to how I move fast — I architect, ship, and own the result. 20+ projects in production with real users.
+End-to-end on **Next.js + Supabase + TypeScript** for web, **Flutter** for mobile, **Python** for scraping and automation. **Stripe** for payments. **OpenAI / Claude** for AI features. AI-assisted workflows are core to how I move fast — I architect, ship, integrate, deploy, and own the result. 20+ projects in production with real users.
 
 ## Stack
 
@@ -41,10 +41,15 @@ DevOps       Vercel · Railway · Cloudflare · Coolify (Hetzner)
 
 I take on **part-time and contract** engagements alongside ZED-ZEN. Current focus:
 
-- **SaaS MVPs** — Next.js + Supabase, end-to-end from idea to paying users
-- **AI integrations** — OpenAI / Claude, RAG, agents with tool use
+- **SaaS MVPs & web apps** — Next.js + Supabase, end-to-end from idea to paying users
+- **Mobile apps** — Flutter for iOS + Android, loyalty / ordering / brand apps
+- **AI integrations & agents** — OpenAI / Claude, RAG, agents with tool use
+- **Scraping & automation pipelines** — Python (Camoufox / Playwright) for data extraction
 - **BI dashboards** — ERP / POS / delivery-platform data into operational dashboards
 - **B2B e-commerce** — ERP-synced catalogs with Stripe checkout
+- **Internal tools** — admin panels, custom backends, content management
 - **Managed hosting** on a Hetzner EX44 (128 GB RAM, Coolify-managed)
+
+Outside these too — if it can be built, I can probably build it. Ask.
 
 📩 Reach me at [alex@zed-zen.com](mailto:alex@zed-zen.com) or via [my contact page](https://alexandru.zed-zen.com/contact).
