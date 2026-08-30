@@ -20,22 +20,35 @@ Frontend     Next.js 16 · React 19 · Tailwind · Framer Motion · Flutter
 Backend      Supabase · Node.js · PostgreSQL · pgvector · Edge Functions
 AI           OpenAI API · Claude API · Vercel AI SDK · agentic RAG
 Payments     Stripe · MyPOS
-DevOps       Vercel · Railway · Cloudflare · Coolify (Hetzner)
+DevOps       Coolify (Hetzner) · Cloudflare · Docker · Vercel · Railway
 ```
 
 ## Recent work
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| **[Pulse](https://pulse.zed-zen.com)** | Next.js + Supabase + Stripe | NFC waiter review SaaS with real-time analytics |
-| **[App.zed-zen.com](https://app.zed-zen.com)** | Next.js + OpenAI + Stripe | Multi-platform restaurant ops aggregating Bolt/Glovo/Wolt |
-| **Nexus Dashboard** | Next.js + ERP REST API | BI layer over the Nexus ERP (1,370+ endpoints) |
+| **[HoReCaOS](https://horecaos.org)** | Next.js 15 + Supabase + AI SDK | Unified operating system for restaurants: POS, inventory, HR, delivery aggregation (Bolt/Glovo/Wolt), e-Factura, fiscal printers, AI agents |
+| **[Registrul firmelor](https://registru.horecaos.org)** | Next.js + Postgres | 3.89M Romanian companies, bulk verification, free API, 2.6M-page sitemap |
+| **Nexus Dashboard** | Next.js + ERP REST API | BI layer over the Nexus ERP (1,370+ endpoints), fleet GPS map |
 | **[Floteris](https://floteris.zed-zen.com)** | Next.js + Vercel AI SDK + pgvector | Fleet management SaaS with agentic RAG assistant |
-| **[Soupart Shop](https://shop.zed-zen.com)** | Next.js + Stripe + ERP API | B2B food wholesale e-commerce (85+ orders processed) |
+| **[Soupart Shop](https://shop.zed-zen.com)** | Next.js 16 + Supabase + ERP API | B2B food wholesale e-commerce with ticketing and manual orders |
 | **Ciorbe & Plăcinte App** | Flutter + Supabase | Mobile loyalty app with nutrition & gamification |
-| **[Salarizare Bugetari](https://salarizare.zed-zen.com)** | Next.js + MCP SDK | Public-sector salary calculator covering 2,627 functions |
+| **[Salarizare Bugetari](https://salarizare.zed-zen.com)** | Next.js + MCP SDK | Public-sector salary calculator covering 2,600+ functions ([source](https://github.com/Jamaalx/salarizare-bugetari)) |
 
 → Full case studies: [alexandru.zed-zen.com/projects](https://alexandru.zed-zen.com/projects)
+
+## Open source
+
+| Repo | What it is |
+|------|------------|
+| **[claude-skills](https://github.com/Jamaalx/claude-skills)** | 27 audit & maintenance slash-commands for Claude Code (security, RLS, deps, DB health, perf, SEO, a11y, GDPR…) — each writes a copy-paste fix kit |
+| **[claude-chat-namer](https://github.com/Jamaalx/claude-chat-namer)** | Claude Code plugin + CLI that names, searches and resumes your conversations. `npx claude-chat-namer` |
+| **[ro-api-hub](https://github.com/Jamaalx/ro-api-hub)** | Open library of Romanian APIs — 124 services, OpenAPI specs, sandbox credentials, MCP wrappers |
+| **[salarizare-bugetari](https://github.com/Jamaalx/salarizare-bugetari)** | Salary calculator for the 2026 Romanian public-sector pay law draft, with an MCP server |
+| **[zed-zen-converter](https://github.com/Jamaalx/zed-zen-converter)** | Offline desktop media converter (Electron + FFmpeg + Sharp) |
+| **[zed-zen-ai-review-extensions](https://github.com/Jamaalx/zed-zen-ai-review-extensions)** | Chrome extension that drafts replies to Google reviews with your own OpenAI key |
+
+Issues and PRs welcome on all of them.
 
 ## Open to work
 
