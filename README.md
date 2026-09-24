@@ -2,7 +2,7 @@
 
 Product builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio shipping production apps for hospitality, retail, and public-sector clients. **Web apps, mobile apps, AI agents, integrations, internal tools.** Next.js · Supabase · Flutter · AI workflows. End-to-end from product design through deployment.
 
-📍 Mureș, Romania · EU timezone
+📍 Bucharest, Romania · EU timezone
 🌐 [alexandru.zed-zen.com](https://alexandru.zed-zen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alex-mantello-2b166414a/)
 📬 [alex@zed-zen.com](mailto:alex@zed-zen.com) · WhatsApp: +40 757 314 021
 
