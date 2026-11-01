@@ -2,9 +2,9 @@
 
 Product builder and founder of [ZED-ZEN](https://zed-zen.com) — a software studio shipping production apps for hospitality, retail, and public-sector clients. **Web apps, mobile apps, AI agents, integrations, internal tools.** Next.js · Supabase · Flutter · AI workflows. End-to-end from product design through deployment.
 
-📍 Bucharest, Romania · EU timezone
-🌐 [alexandru.zed-zen.com](https://alexandru.zed-zen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alex-mantello-2b166414a/)
-📬 [alex@zed-zen.com](mailto:alex@zed-zen.com) · WhatsApp: +40 757 314 021
+Bucharest, Romania · EU timezone
+[alexandru.zed-zen.com](https://alexandru.zed-zen.com) · [LinkedIn](https://www.linkedin.com/in/alex-mantello-2b166414a/)
+[alex@zed-zen.com](mailto:alex@zed-zen.com) · WhatsApp: +40 757 314 021
 
 ---
 
@@ -30,10 +30,10 @@ DevOps       Coolify (Hetzner) · Cloudflare · Docker · Vercel · Railway
 | **[HoReCaOS](https://horecaos.org)** | Next.js 15 + Supabase + AI SDK | Unified operating system for restaurants: POS, inventory, HR, delivery aggregation (Bolt/Glovo/Wolt), e-Factura, fiscal printers, AI agents |
 | **[Registrul firmelor](https://registru.horecaos.org)** | Next.js + Postgres | 3.89M Romanian companies, bulk verification, free API, 2.6M-page sitemap |
 | **Nexus Dashboard** | Next.js + ERP REST API | BI layer over the Nexus ERP (1,370+ endpoints), fleet GPS map |
-| **[Floteris](https://floteris.zed-zen.com)** | Next.js + Vercel AI SDK + pgvector | Fleet management SaaS with agentic RAG assistant |
-| **[Soupart Shop](https://shop.zed-zen.com)** | Next.js 16 + Supabase + ERP API | B2B food wholesale e-commerce with ticketing and manual orders |
+| **[Floteris](https://floteris.ro)** | Next.js + Vercel AI SDK + pgvector | Fleet management SaaS with agentic RAG assistant |
+| **[Soup Art Shop](https://soupart.horecaos.org/shop)** | Next.js 16 + Supabase + ERP API | B2B food wholesale e-commerce with ticketing and manual orders |
 | **Ciorbe & Plăcinte App** | Flutter + Supabase | Mobile loyalty app with nutrition & gamification |
-| **[Salarizare Bugetari](https://salarizare.zed-zen.com)** | Next.js + MCP SDK | Public-sector salary calculator covering 2,600+ functions ([source](https://github.com/Jamaalx/salarizare-bugetari)) |
+| **[Salarizare Bugetari](https://romaniatransparenta.eu/registre/salarii/)** | Next.js + MCP SDK | Public-sector salary calculator covering 2,600+ functions, part of România Transparentă ([source](https://github.com/Jamaalx/salarizare-bugetari)) |
 
 → Full case studies: [alexandru.zed-zen.com/projects](https://alexandru.zed-zen.com/projects)
 
@@ -42,9 +42,9 @@ DevOps       Coolify (Hetzner) · Cloudflare · Docker · Vercel · Railway
 | Repo | What it is |
 |------|------------|
 | **[claude-skills](https://github.com/Jamaalx/claude-skills)** | 27 audit & maintenance slash-commands for Claude Code (security, RLS, deps, DB health, perf, SEO, a11y, GDPR…) — each writes a copy-paste fix kit |
-| **[claude-chat-namer](https://github.com/Jamaalx/claude-chat-namer)** | Claude Code plugin + CLI that names, searches and resumes your conversations. `npx claude-chat-namer` |
-| **[ro-api-hub](https://github.com/Jamaalx/ro-api-hub)** | Open library of Romanian APIs — 124 services, OpenAPI specs, sandbox credentials, MCP wrappers |
-| **[salarizare-bugetari](https://github.com/Jamaalx/salarizare-bugetari)** | Salary calculator for the 2026 Romanian public-sector pay law draft, with an MCP server |
+| **[claude-chat-namer](https://github.com/Jamaalx/claude-chat-namer)** | Claude Code plugin, listed in Anthropic's plugin directory (412 installs): ask Claude where you talked about something and it finds, recaps or resumes that conversation |
+| **[ro-api-hub](https://github.com/Jamaalx/ro-api-hub)** | Open catalog of Romanian public APIs: 125 services with auth notes, sandbox access and links to existing specs and SDKs |
+| **[salarizare-bugetari](https://github.com/Jamaalx/salarizare-bugetari)** | Salary calculator for the 2026 Romanian public-sector pay law draft, with an MCP server (OAuth 2.1 + PKCE) for Claude and ChatGPT |
 | **[zed-zen-converter](https://github.com/Jamaalx/zed-zen-converter)** | Offline desktop media converter (Electron + FFmpeg + Sharp) |
 | **[zed-zen-ai-review-extensions](https://github.com/Jamaalx/zed-zen-ai-review-extensions)** | Chrome extension that drafts replies to Google reviews with your own OpenAI key |
 
@@ -65,4 +65,4 @@ I take on **part-time and contract** engagements alongside ZED-ZEN. Current focu
 
 Outside these too — if it can be built, I can probably build it. Ask.
 
-📩 Reach me at [alex@zed-zen.com](mailto:alex@zed-zen.com) or via [my contact page](https://alexandru.zed-zen.com/contact).
+Reach me at [alex@zed-zen.com](mailto:alex@zed-zen.com) or via [my contact page](https://alexandru.zed-zen.com/contact).
